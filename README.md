@@ -1,1 +1,1 @@
-Standar html, css and javascript website
+Standard html, css and javascript website
