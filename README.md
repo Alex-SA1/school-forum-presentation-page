@@ -1,1 +1,1 @@
-Presentation Page for school-forum project
+Standar html, css and javascript website
